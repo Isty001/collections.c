@@ -1,0 +1,13 @@
+*vim*
+tags
+.ycm_extra_conf.py
+
+build/
+!build/.gitkeep
+
+*.o
+*.so*
+
+sandbox/
+
+collections-c*
